@@ -1,6 +1,6 @@
 # Hello-git-hub
 # H1
-**sample test (Itens de lista)**
+**Sample test (Itens de lista)**
 
 1. Item
 2. Item
